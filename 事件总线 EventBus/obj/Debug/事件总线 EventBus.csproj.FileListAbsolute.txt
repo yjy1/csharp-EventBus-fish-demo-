@@ -1,0 +1,6 @@
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\bin\Debug\事件总线 EventBus.exe.config
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\bin\Debug\事件总线 EventBus.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\bin\Debug\事件总线 EventBus.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\obj\Debug\事件总线 EventBus.csproj.CoreCompileInputs.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\obj\Debug\事件总线 EventBus.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\事件总线 EventBus\obj\Debug\事件总线 EventBus.pdb
